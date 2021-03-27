@@ -13,6 +13,7 @@
 					?>
 				</b>
 			</div>
+
 			<div class="return">
 				<a href="main.php">
 					<button class="button1DB">
@@ -20,6 +21,8 @@
 					</button>
 				</a>
 			</div>
+			
 		</div>
 	</body>
-</html>
+</html>	
+<script src="./js/popup.js"></script>
